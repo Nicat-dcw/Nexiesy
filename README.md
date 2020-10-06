@@ -2,6 +2,6 @@ Hi!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 
 
 
-<img align="left" alt="IrrelevantDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaxiev&show_icons=true&theme=radical&count_private=true" />
+<img align="left" alt="IrrelevantDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nexiesy&show_icons=true&theme=radical&count_private=true" />
 
 
